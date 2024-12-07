@@ -1,1 +1,2 @@
 # App_Notification_Forwarding_Icon
+嗨，这里的东西都可以给短信转发器使用，在接收端就可以看见应用图标，喵
